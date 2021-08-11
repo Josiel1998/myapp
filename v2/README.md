@@ -1,12 +1,2 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2580
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 # Welcome to v2\
-\
-## Introduction\
-\
-> In version two of my web-based portfolio I will make improvements on the UI/UX, use advanced web development components, and apply backend analytics for users who visit the site. }
+## Welcome to v2
+- In version two of my web-based portfolio I will make improvements on the UI/UX, use advanced web development components, and apply backend analytics for users who visit the site. }
